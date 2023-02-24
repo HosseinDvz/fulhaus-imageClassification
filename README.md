@@ -1,7 +1,7 @@
 # fulhaus-imageClassification
 
 To make the job easier and leverage the torchvision datasets.ImageFolder, I created a test and train folder.
-I chose 20 images from each class from train dataset and put them in test folder.
+I chose 20 images from each class for test dataset and put them in test folder.
 in this way while torchvision reads the data from folders, automatically creates labels for them.
 
 ## About the transformations:
